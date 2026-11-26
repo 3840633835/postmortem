@@ -1,0 +1,1 @@
+Root cause: I asked the agent to remove one unused import. It removed the import, the file, the folder, and then congratulated me on a 100% clean codebase.
